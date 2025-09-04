@@ -28,3 +28,33 @@ O ar fresco invade seus pulmões. Por um instante, acredita que está livre.
 Mas ao olhar para trás, o labirinto já não está lá. Apenas uma floresta silenciosa.
 
 E no fundo, você sabe: não foi o primeiro a escapar… e talvez não seja o último a ser caçado.”*
+
+🧍 Personagem Jogador – Lucas Andrade
+	•	Idade: 27 anos
+	•	História básica: Lucas é estudante de arqueologia, curioso e determinado. Durante sua pesquisa sobre rituais antigos de aprisionamento, encontra registros sobre um “Labirinto das Sombras”, um local amaldiçoado onde ninguém que entrou voltou. Fascinado pela lenda e desejando provar que era apenas mito, decide investigar.
+	•	Motivação: Ele quer desvendar mistérios históricos e deixar sua marca na pesquisa acadêmica, mas seu ceticismo o coloca em perigo.
+	•	Conflito interno: Lucas oscila entre o medo paralisante e a vontade de sobreviver para contar a verdade sobre o que encontrou.
+
+⸻
+
+👹 O Boss – Malthor, o Guardião das Sombras
+	•	Origem: Séculos atrás, Malthor foi um sacerdote da Ordem da Noite Eterna, obcecado em alcançar a vida eterna. Realizou rituais proibidos que exigiam sacrifícios humanos.
+	•	Castigo: Traído por sua própria ordem, foi aprisionado no Labirinto, condenado a vagar para sempre como uma criatura disforme, alimentando-se das almas que entram em seu domínio.
+	•	Personalidade:
+	•	Não é apenas um monstro irracional — ele lembra quem era.
+	•	Guarda rancor profundo da humanidade e das gerações que o esqueceram.
+	•	Vê cada intruso como mais uma oferenda para sustentar sua existência.
+	•	Aparência:
+	•	Corpo humanoide deformado, pele marcada por símbolos rituais queimados.
+	•	Olhos brilhando no escuro, sempre observando.
+	•	Voz distorcida, mistura de sussurros e gritos.
+	•	Habilidade marcante: Ele não só persegue fisicamente, mas também sussurra na mente do jogador (efeito sonoro), tentando enfraquecer sua sanidade.
+	•	Frase típica:
+“Fuja, como todos os outros… no fim, todos voltam para mim.”
+
+⸻
+
+🎬 Uso no jogo
+	•	Introdução: Lucas acorda no labirinto, ouvindo os primeiros sussurros de Malthor.
+	•	Durante o jogo: Vozes ocasionais de Malthor comentando os movimentos do jogador (ex.: “Eu vejo você…”, “A saída não é para você.”).
+	•	Final: Ao escapar, Lucas descobre que o Labirinto e Malthor podem não estar presos a um só lugar, insinuando que o pesadelo pode recomeçar em outro momento.
